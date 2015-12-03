@@ -5,10 +5,11 @@
   "author": "aaronjcripps@gmail.com",
   "description": "robutt",
   "dependencies": {
+    "clark": "0.0.6",
     "hubot": "^2.16.0",
     "hubot-decides": "0.0.7",
     "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.2.2",
+    "hubot-google-images": "^0.2.5",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.1",
     "hubot-maps": "0.0.2",
@@ -18,8 +19,7 @@
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
-    "underscore": ">= 1.0.0",
-    "clark": "0.0.6"
+    "underscore": ">= 1.0.0"
   },
   "engines": {
     "node": "0.10.x"
